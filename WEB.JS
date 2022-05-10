@@ -19,8 +19,9 @@ console.log(auto2)
 
 
 function saludar(nombre) {
-    console.log("bienbenido"  + nombre + "al curso de JavaScript")
+   return("bienbenido"  + nombre + "al curso de JavaScript")
 }
+console.log("hello word")
 
 
 saludar("pablo")
